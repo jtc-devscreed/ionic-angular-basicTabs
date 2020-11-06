@@ -1,0 +1,7 @@
+{
+  "name": "simpleTabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
